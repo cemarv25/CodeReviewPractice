@@ -1,0 +1,20 @@
+{
+  "name": "code-review",
+  "version": "1.0.0",
+  "description": "Code for the Code Review Activity in Software Quality and Testing course.",
+  "main": "code.js",
+  "scripts": {
+    "start": "node code.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemarv25/CodeReviewPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cemarv25/CodeReviewPractice/issues"
+  },
+  "homepage": "https://github.com/cemarv25/CodeReviewPractice#readme"
+}
